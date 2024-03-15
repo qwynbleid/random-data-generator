@@ -1,6 +1,6 @@
 {
   "name": "random-data-generator-qwynbleid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple javascript random data generator",
   "main": "./src/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "Andrii",
   "license": "MIT",
   "dependencies": {
-    "blockchain-integration-pleh": "^1.0.2"
+    "blockchain-integration-pleh": "^1.0.2",
+    "color-converter-qwynbleid": "^1.0.1"
   }
 }
