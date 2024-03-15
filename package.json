@@ -1,6 +1,6 @@
 {
-  "name": "random-data-generator",
-  "version": "1.0.0", 
+  "name": "random-data-generator-qwynbleid",
+  "version": "1.0.1",
   "description": "Simple javascript random data generator",
   "main": "./src/index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "https://github.com/qwynbleid/random-data-generator.git"
   },
   "author": "Andrii",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "blockchain-integration-pleh": "^1.0.2"
+  }
 }
